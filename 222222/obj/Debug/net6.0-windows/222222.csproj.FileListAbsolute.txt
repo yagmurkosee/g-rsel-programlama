@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\görsel programlama\222222\bin\Debug\net6.0-windows\222222.exe
+C:\Users\PC\Desktop\görsel programlama\222222\bin\Debug\net6.0-windows\222222.deps.json
+C:\Users\PC\Desktop\görsel programlama\222222\bin\Debug\net6.0-windows\222222.runtimeconfig.json
+C:\Users\PC\Desktop\görsel programlama\222222\bin\Debug\net6.0-windows\222222.dll
+C:\Users\PC\Desktop\görsel programlama\222222\bin\Debug\net6.0-windows\222222.pdb
+C:\Users\PC\Desktop\görsel programlama\222222\obj\Debug\net6.0-windows\222222.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\görsel programlama\222222\obj\Debug\net6.0-windows\_222222.Form1.resources
+C:\Users\PC\Desktop\görsel programlama\222222\obj\Debug\net6.0-windows\222222.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\görsel programlama\222222\obj\Debug\net6.0-windows\222222.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\görsel programlama\222222\obj\Debug\net6.0-windows\222222.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\görsel programlama\222222\obj\Debug\net6.0-windows\222222.AssemblyInfo.cs
+C:\Users\PC\Desktop\görsel programlama\222222\obj\Debug\net6.0-windows\222222.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\görsel programlama\222222\obj\Debug\net6.0-windows\222222.dll
+C:\Users\PC\Desktop\görsel programlama\222222\obj\Debug\net6.0-windows\refint\222222.dll
+C:\Users\PC\Desktop\görsel programlama\222222\obj\Debug\net6.0-windows\222222.pdb
+C:\Users\PC\Desktop\görsel programlama\222222\obj\Debug\net6.0-windows\222222.genruntimeconfig.cache
+C:\Users\PC\Desktop\görsel programlama\222222\obj\Debug\net6.0-windows\ref\222222.dll
